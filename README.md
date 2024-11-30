@@ -5,7 +5,7 @@
     <a href="https://www.youtube.com/@viewedisplay"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://www.facebook.com/people/Shenzhen-VIEWE-Technology-Co-Ltd/100082912943630/"><img src="https://img.shields.io/badge/Facebook-脸书-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/company/viewe/posts/?feedView=all"><img src="https://img.shields.io/badge/Linkedin-领英-07c160" /></a>&emsp;
-    <a href="https://https://space.bilibili.com/1545248509/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/1545248509?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
   <div>
     <a href="https://viewedisplay.com/">
