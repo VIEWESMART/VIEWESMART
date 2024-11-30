@@ -1,5 +1,5 @@
 # Welcome to VIEWE's site on GitHub
-VIEWE supports various open-source projects, including SDKs, libraries, various UI examples, development boards, and smart display screens, aiming to help developers turn their projects into reality.
+VIEWE supports various open-source projects, including SDKs, libraries, solutions, development boards, and smart display screens, aiming to help developers turn their projects into reality.
 
 We have in-depth cooperation with Espressif to explore more possibilities for smart display screens. To view all the products of VIEWE, please visit our [VIEWE Product Selector](https://viewedisplay.com/).
 
