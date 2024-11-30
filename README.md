@@ -1,9 +1,33 @@
 # Welcome to VIEWE's site on GitHub
+  <div align="center">
+  <img src="https://github.com/VIEWESMART/image/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241130151601.png">
+    <div>
+    <a href="https://www.youtube.com/@viewedisplay"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://www.facebook.com/people/Shenzhen-VIEWE-Technology-Co-Ltd/100082912943630/"><img src="https://img.shields.io/badge/Facebook-脸书-blue" /></a>&emsp;
+    <a href="https://www.linkedin.com/company/viewe/posts/?feedView=all"><img src="https://img.shields.io/badge/Linkedin-领英-07c160" /></a>&emsp;
+    <a href="https://https://space.bilibili.com/1545248509/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  </div>
+  <div>
+    <a href="https://viewedisplay.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VIEWE;Wish you happy every day!&center=true&size=27" />
+    </a>
+  </div>
+<div>&nbsp;</div>
+    
+</div>
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
 VIEWE supports various open-source projects, including SDKs, libraries, solutions, development boards, and smart display screens, aiming to help developers turn their projects into reality.
 
 We have in-depth cooperation with Espressif to explore more possibilities for smart display screens. To view all the products of VIEWE, please visit our [VIEWE Product Selector](https://viewedisplay.com/).
 
 You can find a series of open-source projects of VIEWE below.
+<tr><td>
+  <table>
 <!--
 **VIEWESMART/VIEWESMART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
