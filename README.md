@@ -6,6 +6,7 @@
     <a href="https://www.facebook.com/people/Shenzhen-VIEWE-Technology-Co-Ltd/100082912943630/"><img src="https://img.shields.io/badge/Facebook-脸书-blue" /></a>&emsp;
     <a href="https://www.linkedin.com/company/viewe/posts/?feedView=all"><img src="https://img.shields.io/badge/Linkedin-领英-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/1545248509?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+       <a href="https://www.tiktok.com/@www.viewedisplay.com"><img src="https://img.shields.io/badge/TikTok-抖音-blue" /></a>&emsp;
   </div>
   <div>
     <a href="https://viewedisplay.com/">
@@ -20,12 +21,20 @@
   
 <tr><td>
 
-### 🤺 About Me
+## 🤺 About Me
 VIEWE supports various open-source projects, including SDKs, libraries, solutions, development boards, and smart display screens, aiming to help developers turn their projects into reality.
 
 We have in-depth cooperation with Espressif to explore more possibilities for smart display screens. To view all the products of VIEWE, please visit our [VIEWE Product Selector](https://viewedisplay.com/).
 
 You can find a series of open-source projects of VIEWE below.
+### ESP32 Projects
+* [ESP32-IDF](https://github.com/VIEWESMART/ESP32-IDF)
+* [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino)
+
+### FAQ
+Query the problems you may encounter according to the development framework used. If the problem you have encountered is not mentioned therein, please contact us and we will solve it for you as soon as possible.
+* [ESP32-IDF](https://github.com/VIEWESMART/ESP32-IDF/tree/main)
+* [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/FAQ.md)
 <tr><td>
   <table>
 <!--
