@@ -10,7 +10,7 @@
   </div>
   <div>
     <a href="https://viewedisplay.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VIEWE;Wish you happy every day!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Focusing on;IOT Smart GUI and display;touch total solutions&center=true&size=27" />
     </a>
   </div>
 <div>&nbsp;</div>
@@ -28,13 +28,17 @@ We have in-depth cooperation with Espressif to explore more possibilities for sm
 
 You can find a series of open-source projects of VIEWE below.
 ### ESP32 Projects
-* [ESP32-IDF](https://github.com/VIEWESMART/ESP32-IDF)
-* [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino)
+* [ESP32-IDF](https://github.com/VIEWESMART/ESP32-IDF)(IoT Development Framework)
+* [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino)(Arduino Core for ESP32)
 
 ### FAQ
 Query the problems you may encounter according to the development framework used. If the problem you have encountered is not mentioned therein, please contact us and we will solve it for you as soon as possible.
-* [ESP32-IDF](https://github.com/VIEWESMART/ESP32-IDF/tree/main)
-* [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/FAQ.md)
+* [ESP32-IDF FAQ](https://github.com/VIEWESMART/ESP32-IDF/tree/main)
+* [ESP32-Arduino FAQ](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/FAQ.md)
+
+### Configuration of the development environment
+* [Develop  ESP32 with VSCode Plug-in](https://github.com/VIEWESMART/ESP32-IDF/blob/main/docs/Develop%20with%20VSCode%20Plug-in.docx)
+* [Develop with Arduino](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/docs/Arduino%20develops%20the%20general%20environment%20configura.pdf)
 <tr><td>
   <table>
 <!--
