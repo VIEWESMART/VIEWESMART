@@ -13,21 +13,18 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Focusing on;IOT Smart GUI and display;touch total solutions&center=true&size=27" />
     </a>
   </div>
-<div>&nbsp;</div>
+
     
 </div>
 
-<table>
-  
+<table>  
 <tr><td>
 
 ## 🤺 About Me
-VIEWE supports various open-source projects, including SDKs, libraries, solutions, development boards, and smart display screens, aiming to help developers turn their projects into reality.
+VIEWE was founded in 2012 and is known for its professional display production technology. We are currently actively embracing open source and exploring more possibilities for display screens in combination with microcontroller development boards. open-source projects including SDKs, libraries, solutions, development boards, and smart display screens, aiming to help developers turn their projects into reality.
 
-We have in-depth cooperation with Espressif to explore more possibilities for smart display screens. To view all the products of VIEWE, please visit our [VIEWE Product Selector](https://viewedisplay.com/).
-
-You can find a series of open-source projects of VIEWE below.Our full repository list can be found [here](https://github.com/VIEWESMART?tab=repositories).
-## Frameworks
+Below you can see some key projects and documents.Our full repository list can be found [here](https://github.com/VIEWESMART?tab=repositories).
+## Frameworks(From Espressif)
 * [IoT Development Framework (ESP-IDF)](https://github.com/VIEWESMART/esp-idf)
 * [Arduino Core for ESP32](https://github.com/VIEWESMART/arduino-esp32)
   
@@ -44,7 +41,10 @@ Query the problems you may encounter according to the development framework used
 * [Develop  ESP32 with VSCode Plug-in](https://github.com/VIEWESMART/ESP32-IDF/blob/main/docs/Develop%20with%20VSCode%20Plug-in.docx)
 * [Develop with Arduino](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/docs/Arduino%20develops%20the%20general%20environment%20configura.pdf)
 
-## 
+## Website
+* English: https://viewedisplay.com
+* Chinese: https://www.chinasunyee.com
+* Wiki: www.display-wiki.com
 <tr><td>
   <table>
 <!--
