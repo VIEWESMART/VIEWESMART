@@ -22,6 +22,9 @@
 
 ## 🤺 About Me
 VIEWE was founded in 2012 and is known for its professional display production technology. We are currently actively embracing open source and exploring more possibilities for display screens in combination with microcontroller development boards. open-source projects including SDKs, libraries, solutions, development boards, and smart display screens, aiming to help developers turn their projects into reality.
+* Total solutions of Display Screen, Touch Screen and Full Lamination
+* Smart Display: Uart Display, IOT Display, Raspberry Pi Display, Arduino Display…
+* Innovative Display: Ecolity Display, Sunreadable Display, NearEye Display..
 
 Below you can see some key projects and documents.Our full repository list can be found [here](https://github.com/VIEWESMART?tab=repositories).
 ## Frameworks(From Espressif)
