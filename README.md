@@ -37,8 +37,8 @@ Below you can see some key projects and documents.Our full repository list can b
 
 ## FAQ(Frequently Asked Questions)
 Query the problems you may encounter according to the development framework used. If the problem you have encountered is not mentioned therein, please contact us and we will solve it for you as soon as possible.
-* [ESP32-IDF FAQ](https://github.com/VIEWESMART/ESP32-IDF/tree/main)
-* [ESP32-Arduino FAQ](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/FAQ.md)
+* [ESP32-IDF FAQ](https://github.com/VIEWESMART/ESP32-IDF/tree/main/main/docs/FAQ.md)
+* [ESP32-Arduino FAQ](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/docs/FAQ.md)
 
 ## Configuration of the development environment
 * [Develop  ESP32 with VSCode Plug-in](https://github.com/VIEWESMART/ESP32-IDF/blob/main/docs/Develop%20with%20VSCode%20Plug-in.docx)
@@ -48,6 +48,7 @@ Query the problems you may encounter according to the development framework used
 * English: https://viewedisplay.com
 * Chinese: https://www.chinasunyee.com
 * Wiki: www.display-wiki.com
+* aliexpress: www.aliexpress.com/store/1103793083
 <tr><td>
   <table>
 <!--
