@@ -36,7 +36,7 @@ Below you can see some key projects and documents.Our full repository list can b
 * [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino)(Arduino Core for ESP32)
 
 ## FAQ(Frequently Asked Questions)
-Query the problems you may encounter according to the development framework used. If the problem you have encountered is not mentioned therein, please contact us and we will solve it for you as soon as possible.
+Query the problems you may encounter according to the development framework used. If the problem you have encountered is not mentioned therein, please contact us and we will solve it for you as soon as possible.`E-mail address: smartrd1@viewedisplay.com`
 * [ESP32-IDF FAQ](https://github.com/VIEWESMART/ESP32-IDF/tree/main/docs/FAQ.md)
 * [ESP32-Arduino FAQ](https://github.com/VIEWESMART/ESP32-Arduino/tree/main/docs/FAQ.md)
 
