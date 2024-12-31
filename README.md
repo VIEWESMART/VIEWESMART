@@ -30,19 +30,15 @@ Below you can see some key projects and documents.Our full repository list can b
 ## Frameworks(From Espressif)
 * [IoT Development Framework (ESP-IDF)](https://github.com/VIEWESMART/esp-idf)
 * [Arduino Core for ESP32](https://github.com/VIEWESMART/arduino-esp32)
-  
-## ESP32 Projects
-* [ESP32-IDF](https://github.com/VIEWESMART/ESP32-IDF)(IoT Development Framework)
-* [ESP32-Arduino](https://github.com/VIEWESMART/ESP32-Arduino)(Arduino Core for ESP32)
 
 ## FAQ(Frequently Asked Questions)
 Query the problems you may encounter according to the development framework used. If the problem you have encountered is not mentioned therein, please contact us and we will solve it for you as soon as possible.`E-mail address: smartrd1@viewedisplay.com`
-* [ESP32-IDF FAQ](https://github.com/VIEWESMART/ESP32-IDF/tree/main/docs/FAQ.md)
-* [ESP32-Arduino FAQ](https://github.com/VIEWESMART/ESP32-Arduino/tree/main/docs/FAQ.md)
+* [ESP32-IDF FAQ](https://github.com/VIEWESMART/VIEWE-FAQ/tree/main/IDF-FAQ)
+* [ESP32-Arduino FAQ](https://github.com/VIEWESMART/VIEWE-FAQ/tree/main/Arduino-FAQ)
 
 ## Configuration of the development environment
 * [Develop  ESP32 with VSCode Plug-in](https://github.com/VIEWESMART/ESP32-IDF/blob/main/docs/Develop%20with%20VSCode%20Plug-in.docx)
-* [Develop with Arduino](https://github.com/VIEWESMART/ESP32-Arduino/blob/main/docs/Arduino%20develops%20the%20general%20environment%20configura.pdf)
+* [Develop with Arduino IDE](https://github.com/VIEWESMART/VIEWE-FAQ/blob/main/Arduino-FAQ/English/How_To_Configure_Arduino-esp32.md)
 
 ## Website
 * English: https://viewedisplay.com
