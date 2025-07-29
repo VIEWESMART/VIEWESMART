@@ -8,9 +8,10 @@
     <a href="https://space.bilibili.com/1545248509?spm_id_from=333.337.search-card.all.click"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
        <a href="https://www.tiktok.com/@www.viewedisplay.com"><img src="https://img.shields.io/badge/TikTok-抖音-blue" /></a>&emsp;
   </div>
+    
   <div>
     <a href="https://viewedisplay.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Focusing on;IOT Smart GUI and display;touch total solutions&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Focusing+on;IOT+Smart+GUI+and+display;touch+total+solutions&center=true&size=27" />
     </a>
   </div>
 
